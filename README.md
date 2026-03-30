@@ -22,9 +22,10 @@ O projeto utiliza uma interface de "divisão de tela" (Split Screen) para repres
 - **VIP Pass Modal:** Acesso ao convite detalhado via modal interativo.
 - **Responsividade:** Interface adaptada para dispositivos móveis, simulando um ingresso digital de show.
 
-## 📄 Como Visualizar
+## Como Visualizar
 
 O projeto está hospedado via GitHub Pages. Você pode acessar a demonstração interativa aqui:
+
 > https://theogoulart333.github.io/nana-bday-invite/
 
 ---
