@@ -25,7 +25,7 @@ O projeto utiliza uma interface de "divisão de tela" (Split Screen) para repres
 ## 📄 Como Visualizar
 
 O projeto está hospedado via GitHub Pages. Você pode acessar a demonstração interativa aqui:
-> [COLE O SEU LINK DO GITHUB PAGES AQUI]
+> (https://theogoulart333.github.io/nana-bday-invite/)
 
 ---
 *Este projeto foi desenvolvido por Theo Goulart, para fins de portfólio, utilizando dados fictícios na versão pública para preservação de privacidade.*
